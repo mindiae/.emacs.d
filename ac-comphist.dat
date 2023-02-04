@@ -1,0 +1,114 @@
+((("undecodedLink" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("undecodedSlug" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("categoryData" .
+   [1 0 0 0 0 0 0 0 0 0 1 0])
+  ("log" .
+   [1 0 0])
+  ("json" .
+   [3 0 0 0])
+  ("parent" .
+   [5 0 0 0 0 0])
+  ("push" .
+   [1 0 0 0])
+  ("dataAboutParents" .
+   [0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0])
+  ("dataAboutParentsPath" .
+   [0 0 0 0 0 2 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("parentsChildrenPath" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("parentChildIdToSlugObj" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("parentChildIdToSlug" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("parentChildIdToSlugObjPath" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1])
+  ("parentChildrenPath" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("null" .
+   [3 0 0 0])
+  ("stringify" .
+   [1 0 1 0 1 0 0 0 0])
+  ("JSON" .
+   [1 0 0 2])
+  ("writeFileSync" .
+   [1 0 0 1 0 1 0 0 0 0 0 0 0])
+  ("link" .
+   [3 0 0 0])
+  ("name" .
+   [2 0 0 0])
+  ("parentChildren" .
+   [0 0 0 0 0 0 0 1 1 0 1 0 0 2])
+  ("parentData" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("cons" .
+   [1 0 0 0])
+  ("parentDataPath" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("dataJsonPath" .
+   [0 0 0 0 0 2 1 0 0 0 0 1])
+  ("existsSync" .
+   [0 0 0 0 0 0 1 2 0 0])
+  ("categoryPathByID" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2])
+  ("parentPathByID" .
+   [0 0 0 0 0 0 2 1 1 0 0 0 0 0])
+  ("categoryPathBySlug" .
+   [0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0])
+  ("slug" .
+   [6 0 0 0])
+  ("categoriesPath" .
+   [1 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("response" .
+   [2 0 0 0 1 0 0 0])
+  ("error" .
+   [0 0 0 1 0])
+  ("err" .
+   [2 0 0])
+  ("catch" .
+   [1 0 0 0 0])
+  ("let" .
+   [5 0 0])
+  ("data" .
+   [4 0 0 0])
+  ("for" .
+   [1 0 0])
+  ("comment-line" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("handleCategoriesPage" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("console" .
+   [3 0 0 0 0 0 0])
+  ("baseUrl" .
+   [1 0 0 0 0 0 0])
+  ("function" .
+   [1 0 0 0 0 0 0 0])
+  ("totalpages" .
+   [1 0 1 1 0 0 0 0 0 0])
+  ("categoriesUrl" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("categories" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("readFileSync" .
+   [0 0 0 1 1 0 1 0 1 0 0 0])
+  ("c" .
+   [2])
+  ("const" .
+   [20 0 0 0 0])
+  ("cursor" .
+   [0 0 0 1 0 0])
+  ("origami" .
+   [1 0 0 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("js2-mode-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("web" .
+   [2 0 0])
+  ("sticky" .
+   [0 0 0 1 0 0])
+  ("template" .
+   [0 0 0 1 0 0 0 0])
+  ("js2-mode" .
+   [1 0 0 0 0 0 0 0])))

@@ -1,0 +1,2 @@
+;;; Generated package description from fold-dwim-org.el  -*- no-byte-compile: t -*-
+(define-package "fold-dwim-org" "20131203.1351" "Fold DWIM bound to org key-strokes." '((fold-dwim "1.2")) :commit "c09bb2b46d65afbd1d0febc6fded7495be7a3037" :authors '(("Matthew L. Fidler & Shane Celis")) :maintainer '("Matthew L. Fidler") :keywords '("folding" "emacs" "org-mode") :url "https://github.com/mlf176f2/fold-dwim-org")

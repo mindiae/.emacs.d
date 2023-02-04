@@ -1,0 +1,2 @@
+;;; Generated package description from ob-deno.el  -*- no-byte-compile: t -*-
+(define-package "ob-deno" "20201019.101" "Babel Functions for Javascript/TypeScript with Deno" '((emacs "26.1")) :commit "e3b06d7662687e402905b9de4ad1d5816e89b842" :authors '(("HIGASHI Taiju")) :maintainer '("HIGASHI Taiju") :keywords '("literate programming" "reproducible research" "javascript" "typescript" "tools") :url "https://github.com/taiju/ob-deno")

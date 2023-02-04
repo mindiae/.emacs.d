@@ -1,0 +1,79 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Nov 12 14:30:47 2022
+;; Desktop file format version 208
+;; Emacs version 28.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25455 30167 526929 35000) (desktop . "208") "mindia@hpprobook4545s" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-ADBO-Source Code Pro-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter . "Source Code Pro 10") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#e1e1e0") (background-color . "#2d3743") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background . "#F9F9F9") (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (environment "LC_NUMERIC=ka_GE.UTF-8" "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/emacsclient.desktop" "GIO_LAUNCHED_DESKTOP_FILE_PID=15496" "MAIL=/var/spool/mail/mindia" "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus" "GDMSESSION=gnome-wayland" "PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin" "BROWSER=firefox" "XDG_DATA_DIRS=/home/mindia/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share" "GTK3_MODULES=xapp-gtk3-module" "JOURNAL_STREAM=8:19067" "LC_TIME=ka_GE.UTF-8" "XDG_RUNTIME_DIR=/run/user/1000" "LC_MEASUREMENT=ka_GE.UTF-8" "QT_IM_MODULE=ibus" "LC_TELEPHONE=ka_GE.UTF-8" "PAGER=most" "SHLVL=0" "DISPLAY=:0" "VISUAL=nano" "USER=mindia" "LC_IDENTIFICATION=ka_GE.UTF-8" "XDG_SESSION_CLASS=user" "GNOME_SETUP_DISPLAY=:1" "GJS_DEBUG_OUTPUT=stderr" "MANAGERPID=1027" "INVOCATION_ID=0f2b684f9f2a4f56bfc378af2366f70f" "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0" "WAYLAND_DISPLAY=wayland-0" "XDG_CURRENT_DESKTOP=GNOME" "LANG=en_US.UTF-8" "LC_PAPER=ka_GE.UTF-8" "HOME=/home/mindia" "MOTD_SHOWN=pam" "QT_STYLE_OVERRIDE=kvantum" "GJS_DEBUG_TOPICS=JS ERROR;JS LOG" "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mindia" "DESKTOP_STARTUP_ID=gnome-shell/Emacs (Client)/1104-10-hpprobook4545s_TIME8886458" "XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.P58DV1" "SYSTEMD_EXEC_PID=1104" "XDG_SESSION_TYPE=wayland" "QT_QPA_PLATFORMTHEME=qt5ct" "LOGNAME=mindia" "XDG_SESSION_DESKTOP=gnome-wayland" "PWD=/home/mindia" "EDITOR=nano" "LC_MONETARY=ka_GE.UTF-8" "DESKTOP_SESSION=gnome-wayland" "XMODIFIERS=@im=ibus" "SSH_AUTH_SOCK=/run/user/1000/keyring/ssh" "LC_NAME=ka_GE.UTF-8" "LC_ADDRESS=ka_GE.UTF-8" "XDG_MENU_PREFIX=gnome-" "HISTCONTROL=ignoreboth:erasedups" "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0" "SESSION_MANAGER=local/hpprobook4545s:@/tmp/.ICE-unix/1089,unix/hpprobook4545s:/tmp/.ICE-unix/1089" "SHELL=/bin/bash") (cursor-color . "#c8c8c8") (display-type . color) (background-mode . dark) (sticky) (frameset--id . "0B71-BE26-86E1-2875") (frameset--mini t . t) (last-focus-update) (height . 36) (width . 80) (modeline . t) (unsplittable) (left + -10) (top . 24) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 672) (pixel-height . 595) (total-width . 84) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (buffer "PKGBUILD<typography>" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)) (prev-buffers ("PKGBUILD<icon-library>" 1 1) ("*scratch*" 1 146) ("index.html" 1 323))) (((minibuffer . t) (display-type . mono) (background-mode . dark) (cursor-color . "white") (scroll-bar-foreground . "white") (foreground-color . "unspecified-fg") (background-color . "unspecified-bg") (font . "tty") (height . 24) (width . 80) (modeline . t) (unsplittable) (menu-bar-lines . 1) (tab-bar-lines . 0) (frameset--id . "B0E1-A687-2F6F-A7E8") (frameset--mini t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 80) (pixel-height . 23) (total-width . 80) (total-height . 23) (normal-height . 1.0) (normal-width . 1.0) (buffer "index.html" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 323) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("jsdoc" 0 5 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/mindia/projects/PKGBUILDS/typography/PKGBUILD" "/home/mindia/projects/PKGBUILDS/icon-library/PKGBUILD" "/home/mindia/projects/jc-graphql/out/index.html" "/home/mindia/projects/jc-graphql/main.js" "/home/mindia/projects/jc-graphql/package.json" "/home/mindia/projects/jc-graphql/index.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/mindia/projects/PKGBUILDS/typography/PKGBUILD"
+  "PKGBUILD"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25455 30167 258982 450000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mindia/projects/PKGBUILDS/icon-library/PKGBUILD"
+  "PKGBUILD"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25455 30167 144230 939000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mindia/projects/jc-graphql/out/index.html"
+  "index.html"
+  'mhtml-mode
+  '(yas-minor-mode emmet-mode)
+  323
+  '(323 nil)
+  nil
+  nil
+  '((buffer-display-time 25455 29864 20985 14000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mindia/projects/jc-graphql/main.js"
+  "main.js"
+  'js2-mode
+  '(auto-complete-mode yas-minor-mode js2-imenu-extras-mode)
+  1538
+  '(807 nil)
+  nil
+  nil
+  '((buffer-display-time 25455 9120 239177 361000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (998 409 24 94 189 117 453 249 333 293 751 764 812 844 953 1519))))
+
+(desktop-create-buffer 208
+  "/home/mindia/projects/jc-graphql/package.json"
+  "package.json"
+  'json-mode
+  '(yas-minor-mode)
+  123
+  '(119 nil)
+  nil
+  nil
+  '((buffer-display-time 25455 7487 324388 426000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (323 323 323 128 119 119))))
+

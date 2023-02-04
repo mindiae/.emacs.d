@@ -1,0 +1,2 @@
+;;; Generated package description from lsp-tailwindcss.el  -*- no-byte-compile: t -*-
+(define-package "lsp-tailwindcss" "20221102.1343" "A lsp-mode client for tailwindcss" '((lsp-mode "7.1") (f "0.20.0") (emacs "26.1")) :commit "6e5addff47bac15f99d8efcff2191818dd71d7b4" :authors '(("A.I." . "merrick@luois.me")) :maintainer '("A.I." . "merrick@luois.me") :keywords '("language" "tools") :url "https://github.com/merrickluo/lsp-tailwindcss")

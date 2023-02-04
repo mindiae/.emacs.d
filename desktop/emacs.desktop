@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Dec  1 14:00:31 2022
+;; Desktop file format version 208
+;; Emacs version 29.0.50
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25480 31551 88053 78000) (desktop . "208") "mindia@hpprobook4545s" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-GOOG-Noto Sans Mono-regular-normal-normal-*-13-*-*-*-*-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#ebdbb2") (background-color . "#262626") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (environment "LC_NUMERIC=ka_GE.UTF-8" "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/emacsclient.desktop" "GIO_LAUNCHED_DESKTOP_FILE_PID=128193" "MAIL=/var/spool/mail/mindia" "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus" "GDMSESSION=gnome" "PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/opt/android-sdk/platform-tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl" "BROWSER=firefox" "XDG_DATA_DIRS=/home/mindia/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/" "JOURNAL_STREAM=8:20398" "LC_TIME=ka_GE.UTF-8" "XDG_RUNTIME_DIR=/run/user/1000" "LC_MEASUREMENT=ka_GE.UTF-8" "QT_IM_MODULE=ibus" "LC_TELEPHONE=ka_GE.UTF-8" "PAGER=most" "SHLVL=0" "DISPLAY=:0" "VISUAL=nano" "USER=mindia" "LC_IDENTIFICATION=ka_GE.UTF-8" "XDG_SESSION_CLASS=user" "GNOME_SETUP_DISPLAY=:1" "GJS_DEBUG_OUTPUT=stderr" "MANAGERPID=1169" "INVOCATION_ID=7cfe009830db45bf9734a869f7d189a1" "WAYLAND_DISPLAY=wayland-0" "XDG_CURRENT_DESKTOP=GNOME" "LANG=en_US.UTF-8" "LC_PAPER=ka_GE.UTF-8" "USERNAME=mindia" "HOME=/home/mindia" "GDM_LANG=en_US.UTF-8" "MOTD_SHOWN=pam" "QT_STYLE_OVERRIDE=kvantum" "GJS_DEBUG_TOPICS=JS ERROR;JS LOG" "DESKTOP_STARTUP_ID=gnome-shell/Emacs (Client)/1289-41-hpprobook4545s_TIME192093429" "XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.T5KFW1" "SYSTEMD_EXEC_PID=1289" "XDG_SESSION_TYPE=wayland" "QT_QPA_PLATFORMTHEME=qt5ct" "LOGNAME=mindia" "XDG_SESSION_DESKTOP=gnome" "PWD=/home/mindia" "EDITOR=nano" "LC_MONETARY=ka_GE.UTF-8" "DESKTOP_SESSION=gnome" "XMODIFIERS=@im=ibus" "SSH_AUTH_SOCK=/run/user/1000/keyring/ssh" "LC_NAME=ka_GE.UTF-8" "LC_ADDRESS=ka_GE.UTF-8" "FREETYPE_PROPERTIES=truetype:interpreter-version=40" "XDG_MENU_PREFIX=gnome-" "HISTCONTROL=ignoreboth:erasedups" "SESSION_MANAGER=local/hpprobook4545s:@/tmp/.ICE-unix/1271,unix/hpprobook4545s:/tmp/.ICE-unix/1271" "SHELL=/bin/bash") (cursor-color . "#c8c8c8") (display-type . color) (background-mode . dark) (font-parameter) (sticky) (shaded) (dnd-root-window-position) (last-focus-update) (frameset--id . "36D0-EC07-E34E-3BD2") (frameset--mini t . t) (height . 35) (width . 80) (modeline . t) (unsplittable) (left . 403) (top . 24) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 80) (min-pixel-height-ignore . 36) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 18) (min-pixel-width-safe . 16)) leaf (pixel-width . 672) (pixel-height . 612) (total-width . 84) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "children.json" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)) (prev-buffers ("manage-categories.mjs" 1371 1911) ("*About GNU Emacs*" 1 172) ("*scratch*" 1 146))) (((minibuffer . t) (display-type . mono) (background-mode . dark) (cursor-color . "white") (scroll-bar-foreground) (scroll-bar-background) (foreground-color . "unspecified-fg") (background-color . "#262626") (font . "tty") (height . 24) (width . 80) (modeline . t) (unsplittable) (menu-bar-lines . 1) (tab-bar-lines . 0) (frameset--id . "6E87-1E98-40A9-D878") (frameset--mini t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 80) (pixel-height . 23) (total-width . 80) (total-height . 23) (normal-height . 1.0) (normal-width . 1.0) (buffer "manage-categories.mjs" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1634) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("lsp-mode" 0 8 (isearch-case-fold-search t isearch-regexp-function nil)) #("yasnippe" 0 8 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/mindia/projects/jc.ge/public/json/categories/142/children.json" "/home/mindia/.config/user-dirs.dirs" "/home/mindia/projects/jc.ge/public/json/categories/განათლების-კერა/children.json" "/home/mindia/projects/jc.ge/public/json/categories/children.json" "~/.emacs.d/desktop" "~/projects/jc.ge/server/manage-categories.mjs" "~/projects/jc.ge/package.json" "~/.emacs" "~/projects/jc.ge/server/manage-categories.js" "~/projects/jc.ge/server/manage-posts.js" "~/projects/bible/epub-from-mybible-sqlite/index.js" "~/projects/bible/epub-from-mybible-sqlite/output/NTPTjson/470_001.xhtml" "~/projects/bible/epub-from-mybible-sqlite/output/NTPTjson/470_004.xhtml" "~/projects/bible/epub-from-mybible-sqlite/output/NTPTjson/470_005.xhtml" "~/projects/bible/epub-from-mybible-sqlite/output/NTPTjson/500_017.xhtml" "~/Books/bible/NTPT/bible-epub/470_002_ntpt.xhtml" "~/Books/bible/NTPT/bible-epub/470_001_ntpt.xhtml" "~/projects/evprosdektos.github.io/gridsome.server.js" "~/projects/bible/epub-from-mybible-sqlite/package.json" "~/projects/jc.ge/components/TheHeader.vue" "~/projects/jc.ge/node_modules/ofetch/cjs/node.cjs" "~/projects/jc.ge/node_modules/ofetch/package.json" "~/projects/jc.ge/node_modules/ofetch/dist/node.mjs" "~/projects/jc.ge/tailwind.config.js" "~/projects/jc.ge/components/AppDropdownContent.vue"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/mindia/projects/jc.ge/public/json/categories/142/children.json"
+  "children.json"
+  'json-mode
+  '(font-lock-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25480 31551 2116 650000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mindia/projects/jc.ge/server/manage-categories.mjs"
+  "manage-categories.mjs"
+  'js2-mode
+  '(cursor-sensor-mode js2-imenu-extras-mode yas-minor-mode auto-complete-mode font-lock-mode)
+  1911
+  '(1983 nil)
+  nil
+  nil
+  '((buffer-display-time 25480 30069 763347 394000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1935 1982 2566 2711 2537 2012 2137 1864 1745 1795 1795 1865 2137 1865 1865 2246))))
+
+(desktop-create-buffer 208
+  "/home/mindia/projects/jc.ge/package.json"
+  "package.json"
+  'json-mode
+  '(yas-minor-mode font-lock-mode)
+  404
+  '(404 nil)
+  nil
+  nil
+  '((buffer-display-time 25480 16711 243118 461000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (292 128 377))))
+
